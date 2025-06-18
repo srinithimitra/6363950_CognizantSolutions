@@ -1,4 +1,4 @@
-package CommandPatternExample;
+package Code.AdapterPatternExample.CommandPatternExample;
 
 public class Light {
     public void on(){

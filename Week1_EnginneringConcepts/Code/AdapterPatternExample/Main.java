@@ -1,4 +1,4 @@
-package AdapterPatternExample;
+package Code.AdapterPatternExample;
 
 public class Main {
     public static void main(String[] args) {

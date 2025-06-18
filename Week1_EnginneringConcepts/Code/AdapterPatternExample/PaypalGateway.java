@@ -1,4 +1,4 @@
-package AdapterPatternExample;
+package Code.AdapterPatternExample;
 
 public class PaypalGateway{
     public void send(double amt){

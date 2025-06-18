@@ -1,4 +1,4 @@
-package AdapterPatternExample;
+package Code.AdapterPatternExample;
 
 public class GooglepayAdapter implements PaymentProcessor{
         private GooglePayGateway googlepay=new GooglePayGateway();

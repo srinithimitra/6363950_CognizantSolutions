@@ -1,4 +1,4 @@
-package AdapterPatternExample;
+package Code.AdapterPatternExample;
 
  public class PaypalAdapter implements PaymentProcessor{
         private PaypalGateway paypal=new PaypalGateway();

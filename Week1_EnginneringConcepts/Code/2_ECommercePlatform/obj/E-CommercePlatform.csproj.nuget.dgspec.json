@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\KIIT\\Desktop\\CognizantSolutions\\Week1_EnginneringConcepts\\Code\\2_EcommercePlatform\\E-CommercePlatform.csproj": {}
+    "C:\\Users\\KIIT\\Desktop\\CognizantSolutions\\Week1_EnginneringConcepts\\Code\\2_ECommercePlatform\\E-CommercePlatform.csproj": {}
   },
   "projects": {
-    "C:\\Users\\KIIT\\Desktop\\CognizantSolutions\\Week1_EnginneringConcepts\\Code\\2_EcommercePlatform\\E-CommercePlatform.csproj": {
+    "C:\\Users\\KIIT\\Desktop\\CognizantSolutions\\Week1_EnginneringConcepts\\Code\\2_ECommercePlatform\\E-CommercePlatform.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KIIT\\Desktop\\CognizantSolutions\\Week1_EnginneringConcepts\\Code\\2_EcommercePlatform\\E-CommercePlatform.csproj",
+        "projectUniqueName": "C:\\Users\\KIIT\\Desktop\\CognizantSolutions\\Week1_EnginneringConcepts\\Code\\2_ECommercePlatform\\E-CommercePlatform.csproj",
         "projectName": "E-CommercePlatform",
-        "projectPath": "C:\\Users\\KIIT\\Desktop\\CognizantSolutions\\Week1_EnginneringConcepts\\Code\\2_EcommercePlatform\\E-CommercePlatform.csproj",
+        "projectPath": "C:\\Users\\KIIT\\Desktop\\CognizantSolutions\\Week1_EnginneringConcepts\\Code\\2_ECommercePlatform\\E-CommercePlatform.csproj",
         "packagesPath": "C:\\Users\\KIIT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KIIT\\Desktop\\CognizantSolutions\\Week1_EnginneringConcepts\\Code\\2_EcommercePlatform\\obj\\",
+        "outputPath": "C:\\Users\\KIIT\\Desktop\\CognizantSolutions\\Week1_EnginneringConcepts\\Code\\2_ECommercePlatform\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\KIIT\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = E_CommercePlatform
-build_property.ProjectDir = C:\Users\KIIT\Desktop\CognizantSolutions\Week1_EnginneringConcepts\Code\2_EcommercePlatform\
+build_property.ProjectDir = C:\Users\KIIT\Desktop\CognizantSolutions\Week1_EnginneringConcepts\Code\2_ECommercePlatform\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

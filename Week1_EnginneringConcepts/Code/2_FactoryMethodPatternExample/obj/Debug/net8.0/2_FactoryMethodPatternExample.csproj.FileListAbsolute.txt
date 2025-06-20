@@ -1,0 +1,15 @@
+C:\Users\KIIT\Desktop\CognizantSolutions\Week1_EnginneringConcepts\Code\2_FactoryMethodPatternExample\bin\Debug\net8.0\2_FactoryMethodPatternExample.exe
+C:\Users\KIIT\Desktop\CognizantSolutions\Week1_EnginneringConcepts\Code\2_FactoryMethodPatternExample\bin\Debug\net8.0\2_FactoryMethodPatternExample.deps.json
+C:\Users\KIIT\Desktop\CognizantSolutions\Week1_EnginneringConcepts\Code\2_FactoryMethodPatternExample\bin\Debug\net8.0\2_FactoryMethodPatternExample.runtimeconfig.json
+C:\Users\KIIT\Desktop\CognizantSolutions\Week1_EnginneringConcepts\Code\2_FactoryMethodPatternExample\bin\Debug\net8.0\2_FactoryMethodPatternExample.dll
+C:\Users\KIIT\Desktop\CognizantSolutions\Week1_EnginneringConcepts\Code\2_FactoryMethodPatternExample\bin\Debug\net8.0\2_FactoryMethodPatternExample.pdb
+C:\Users\KIIT\Desktop\CognizantSolutions\Week1_EnginneringConcepts\Code\2_FactoryMethodPatternExample\obj\Debug\net8.0\2_FactoryMethodPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\CognizantSolutions\Week1_EnginneringConcepts\Code\2_FactoryMethodPatternExample\obj\Debug\net8.0\2_FactoryMethodPatternExample.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\CognizantSolutions\Week1_EnginneringConcepts\Code\2_FactoryMethodPatternExample\obj\Debug\net8.0\2_FactoryMethodPatternExample.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\CognizantSolutions\Week1_EnginneringConcepts\Code\2_FactoryMethodPatternExample\obj\Debug\net8.0\2_FactoryMethodPatternExample.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\CognizantSolutions\Week1_EnginneringConcepts\Code\2_FactoryMethodPatternExample\obj\Debug\net8.0\2_FactoryMethodPatternExample.sourcelink.json
+C:\Users\KIIT\Desktop\CognizantSolutions\Week1_EnginneringConcepts\Code\2_FactoryMethodPatternExample\obj\Debug\net8.0\2_FactoryMethodPatternExample.dll
+C:\Users\KIIT\Desktop\CognizantSolutions\Week1_EnginneringConcepts\Code\2_FactoryMethodPatternExample\obj\Debug\net8.0\refint\2_FactoryMethodPatternExample.dll
+C:\Users\KIIT\Desktop\CognizantSolutions\Week1_EnginneringConcepts\Code\2_FactoryMethodPatternExample\obj\Debug\net8.0\2_FactoryMethodPatternExample.pdb
+C:\Users\KIIT\Desktop\CognizantSolutions\Week1_EnginneringConcepts\Code\2_FactoryMethodPatternExample\obj\Debug\net8.0\2_FactoryMethodPatternExample.genruntimeconfig.cache
+C:\Users\KIIT\Desktop\CognizantSolutions\Week1_EnginneringConcepts\Code\2_FactoryMethodPatternExample\obj\Debug\net8.0\ref\2_FactoryMethodPatternExample.dll

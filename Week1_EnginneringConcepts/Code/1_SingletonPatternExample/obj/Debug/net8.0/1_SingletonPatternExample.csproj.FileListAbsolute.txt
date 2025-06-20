@@ -1,0 +1,15 @@
+C:\Users\KIIT\Desktop\CognizantSolutions\Week1_EnginneringConcepts\Code\1_SingletonPatternExample\bin\Debug\net8.0\1_SingletonPatternExample.exe
+C:\Users\KIIT\Desktop\CognizantSolutions\Week1_EnginneringConcepts\Code\1_SingletonPatternExample\bin\Debug\net8.0\1_SingletonPatternExample.deps.json
+C:\Users\KIIT\Desktop\CognizantSolutions\Week1_EnginneringConcepts\Code\1_SingletonPatternExample\bin\Debug\net8.0\1_SingletonPatternExample.runtimeconfig.json
+C:\Users\KIIT\Desktop\CognizantSolutions\Week1_EnginneringConcepts\Code\1_SingletonPatternExample\bin\Debug\net8.0\1_SingletonPatternExample.dll
+C:\Users\KIIT\Desktop\CognizantSolutions\Week1_EnginneringConcepts\Code\1_SingletonPatternExample\bin\Debug\net8.0\1_SingletonPatternExample.pdb
+C:\Users\KIIT\Desktop\CognizantSolutions\Week1_EnginneringConcepts\Code\1_SingletonPatternExample\obj\Debug\net8.0\1_SingletonPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\CognizantSolutions\Week1_EnginneringConcepts\Code\1_SingletonPatternExample\obj\Debug\net8.0\1_SingletonPatternExample.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\CognizantSolutions\Week1_EnginneringConcepts\Code\1_SingletonPatternExample\obj\Debug\net8.0\1_SingletonPatternExample.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\CognizantSolutions\Week1_EnginneringConcepts\Code\1_SingletonPatternExample\obj\Debug\net8.0\1_SingletonPatternExample.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\CognizantSolutions\Week1_EnginneringConcepts\Code\1_SingletonPatternExample\obj\Debug\net8.0\1_SingletonPatternExample.sourcelink.json
+C:\Users\KIIT\Desktop\CognizantSolutions\Week1_EnginneringConcepts\Code\1_SingletonPatternExample\obj\Debug\net8.0\1_SingletonPatternExample.dll
+C:\Users\KIIT\Desktop\CognizantSolutions\Week1_EnginneringConcepts\Code\1_SingletonPatternExample\obj\Debug\net8.0\refint\1_SingletonPatternExample.dll
+C:\Users\KIIT\Desktop\CognizantSolutions\Week1_EnginneringConcepts\Code\1_SingletonPatternExample\obj\Debug\net8.0\1_SingletonPatternExample.pdb
+C:\Users\KIIT\Desktop\CognizantSolutions\Week1_EnginneringConcepts\Code\1_SingletonPatternExample\obj\Debug\net8.0\1_SingletonPatternExample.genruntimeconfig.cache
+C:\Users\KIIT\Desktop\CognizantSolutions\Week1_EnginneringConcepts\Code\1_SingletonPatternExample\obj\Debug\net8.0\ref\1_SingletonPatternExample.dll

@@ -1,0 +1,25 @@
+# Visual Studio solution files
+*.suo
+*.user
+*.sou
+*.ncb
+*.vssscc
+*.vspscc
+*.vsscc
+*.bak
+*.scc
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+bin/
+obj/
+
+# Rider
+.idea/
+
+# NuGet
+*.nupkg
+*.snupkg
+**/[Oo]bj/
+**/[Bb]in/

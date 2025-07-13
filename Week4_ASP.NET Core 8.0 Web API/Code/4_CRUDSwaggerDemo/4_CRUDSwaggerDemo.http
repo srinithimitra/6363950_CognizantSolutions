@@ -1,0 +1,6 @@
+@_4_CRUDSwaggerDemo_HostAddress = http://localhost:5295
+
+GET {{_4_CRUDSwaggerDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

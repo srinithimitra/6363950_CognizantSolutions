@@ -23,3 +23,5 @@ obj/
 *.snupkg
 **/[Oo]bj/
 **/[Bb]in/
+
+node_modules/

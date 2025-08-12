@@ -1,4 +1,0 @@
-HEAD
-Another different line from main branch
-Different line from feature branch
-feature
